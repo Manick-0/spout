@@ -6,7 +6,9 @@ SECRET_KEY = 'django-insecure-p(=laq!movj0nu-us6i5(f3o14a$d%2o0iqm8ajrg74p)1x(er
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ALLOWED_HOSTS = ['your-heroku-app-name.herokuapp.com', 'localhost']
+DEBUG = False
+]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
