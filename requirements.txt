@@ -20,7 +20,7 @@ attrs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_978y
 Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
 autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
 Babel @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_00k1rl2pus/croot/babel_1671781944131/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+
 backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
 backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
